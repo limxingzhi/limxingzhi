@@ -8,5 +8,5 @@ You can contact me on my [linkedin](https://www.linkedin.com/in/limxingzhi/)
 
 ### Checkout more from me:
 
-- [My Software Dev Telegram Channel](https://t.me/devstuff)
+- [My Software Dev Telegram Channel](https://t.me/devopsstuff)
 - [My personal blog](https://xingzhi.dev/blog)
